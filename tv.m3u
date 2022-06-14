@@ -1,14 +1,26 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="â–‚ â–„ â–… â–†  ARGENTINA  â–† â–… â–„ â–‚" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31WDR1jcTgL._AC_SX425_.jpg" group-title="ARGENTINA",â–‚ â–„ â–… â–†  ARGENTINA  â–† â–… â–„ â–‚
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/30086
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: AMERICA TV" tvg-logo="" group-title="ARGENTINA",ARG: AMERICA TV
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95505
 #EXTINF:-1 tvg-id="" tvg-name="ARG: EL TRECE INTERNACIONAL" tvg-logo="" group-title="ARGENTINA",ARG: EL TRECE INTERNACIONAL
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95506
+#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 HD" tvg-logo="" group-title="ARGENTINA",ARG: CANAL 9 HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95523
+#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV SD" tvg-logo="" group-title="ARGENTINA",ARG: America TV SD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95527
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica HD" tvg-logo="" group-title="ARGENTINA",ARG: Television Publica HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95530
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve HD" tvg-logo="" group-title="ARGENTINA",ARG: El Nueve HD
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE" tvg-logo="" group-title="ARGENTINA",ARG: TELEFE
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95507
 #EXTINF:-1 tvg-id="" tvg-name="ARG: TELEFE HD" tvg-logo="" group-title="ARGENTINA",ARG: TELEFE HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95508
+#EXTINF:-1 tvg-id="" tvg-name="ARG: El trece" tvg-logo="" group-title="ARGENTINA",ARG: El trece
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95534
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Magazine SD" tvg-logo="" group-title="ARGENTINA",ARG: Magazine SD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95560
+#EXTINF:-1 tvg-id="" tvg-name="ARG: Magazine HD" tvg-logo="" group-title="ARGENTINA",ARG: Magazine HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95561
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 26" tvg-logo="" group-title="ARGENTINA",ARG: CANAL 26
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95509
 #EXTINF:-1 tvg-id="" tvg-name="ARG: NET TV" tvg-logo="" group-title="ARGENTINA",ARG: NET TV
@@ -33,24 +45,18 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95520
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95521
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="" group-title="ARGENTINA",ARG: A24
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95522
-#EXTINF:-1 tvg-id="" tvg-name="ARG: CANAL 9 HD" tvg-logo="" group-title="ARGENTINA",ARG: CANAL 9 HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95523
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="ARGENTINA",ARG: C5N HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95524
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="" group-title="ARGENTINA",ARG: C5N FHD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95525
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD" tvg-logo="" group-title="ARGENTINA",ARG: A24 HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95526
-#EXTINF:-1 tvg-id="" tvg-name="ARG: America TV SD" tvg-logo="" group-title="ARGENTINA",ARG: America TV SD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95527
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Television Publica HD" tvg-logo="" group-title="ARGENTINA",ARG: Television Publica HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95530
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El Nueve HD" tvg-logo="" group-title="ARGENTINA",ARG: El Nueve HD
+
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95532
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 9 Salta HD" tvg-logo="" group-title="ARGENTINA",ARG: Canal 9 Salta HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95533
-#EXTINF:-1 tvg-id="" tvg-name="ARG: El trece" tvg-logo="" group-title="ARGENTINA",ARG: El trece
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95534
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias TN SD" tvg-logo="" group-title="ARGENTINA",ARG: Todo Noticias TN SD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95537
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Todo Noticias HD *" tvg-logo="" group-title="ARGENTINA",ARG: Todo Noticias HD *
@@ -83,10 +89,7 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95556
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95558
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 10" tvg-logo="" group-title="ARGENTINA",ARG: Canal 10
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95559
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Magazine SD" tvg-logo="" group-title="ARGENTINA",ARG: Magazine SD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95560
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Magazine HD" tvg-logo="" group-title="ARGENTINA",ARG: Magazine HD
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95561
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 7 HD Jujuy" tvg-logo="" group-title="ARGENTINA",ARG: Canal 7 HD Jujuy
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95562
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 21 HD" tvg-logo="" group-title="ARGENTINA",ARG: Canal 21 HD
@@ -121,6 +124,8 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95582
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/143065
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO USA" tvg-logo="" group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION",TELEMUNDO USA
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/143066
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 MIAMI HD" tvg-logo="" group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION",TELEMUNDO 51 MIAMI HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/143081
 
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Baby TV Â©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/baby_tv.png" group-title="INFANTILES PREMIUM ",Infantil: Baby TV Â©
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29394
