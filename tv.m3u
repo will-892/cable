@@ -25,8 +25,7 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95561
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95509
 #EXTINF:-1 tvg-id="" tvg-name="ARG: NET TV" tvg-logo="" group-title="ARGENTINA",ARG: NET TV
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95510
-#EXTINF:-1 tvg-id="" tvg-name="ARG: LA NACION" tvg-logo="" group-title="ARGENTINA",ARG: LA NACION
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95511
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: VOLVER*" tvg-logo="" group-title="ARGENTINA",ARG: VOLVER*
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95512
 #EXTINF:-1 tvg-id="" tvg-name="ARG: CINE ARGENTINO" tvg-logo="" group-title="ARGENTINA",ARG: CINE ARGENTINO
@@ -45,7 +44,8 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95520
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95521
 #EXTINF:-1 tvg-id="" tvg-name="ARG: A24" tvg-logo="" group-title="ARGENTINA",ARG: A24
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95522
-
+#EXTINF:-1 tvg-id="" tvg-name="ARG: LA NACION" tvg-logo="" group-title="ARGENTINA",ARG: LA NACION
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95511
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N HD" tvg-logo="" group-title="ARGENTINA",ARG: C5N HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95524
 #EXTINF:-1 tvg-id="" tvg-name="ARG: C5N FHD" tvg-logo="" group-title="ARGENTINA",ARG: C5N FHD
@@ -85,8 +85,7 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95554
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95555
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Telemax" tvg-logo="" group-title="ARGENTINA",ARG: Telemax
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95556
-#EXTINF:-1 tvg-id="" tvg-name="ARG: TV Universidad Nacional de La Plata" tvg-logo="" group-title="ARGENTINA",ARG: TV Universidad Nacional de La Plata
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95558
+
 #EXTINF:-1 tvg-id="" tvg-name="ARG: Canal 10" tvg-logo="" group-title="ARGENTINA",ARG: Canal 10
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/95559
 
@@ -127,10 +126,7 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/143066
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 MIAMI HD" tvg-logo="" group-title="UNIVISION, UNIMAS, TELEMUNDO, GALAVISION",TELEMUNDO 51 MIAMI HD
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/143081
 
-#EXTINF:-1 tvg-id="" tvg-name="Infantil: Baby TV Â©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/baby_tv.png" group-title="INFANTILES PREMIUM ",Infantil: Baby TV Â©
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29394
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="Infantil: Baby First" tvg-logo="https://www.pngkit.com/png/full/206-2069051_baby-first-baby-first-tv-logo-png.png" group-title="INFANTILES PREMIUM ",Infantil: Baby First
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29395
+
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Boomerang (MX)" tvg-logo="https://www.pngfind.com/pngs/m/471-4711070_boomerang-logo-png-transparent-boomerang-from-cartoon-network.png" group-title="INFANTILES PREMIUM ",Infantil: Boomerang (MX)
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29396
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Boomerang " tvg-logo="https://www.pngfind.com/pngs/m/471-4711070_boomerang-logo-png-transparent-boomerang-from-cartoon-network.png" group-title="INFANTILES PREMIUM ",Infantil: Boomerang 
@@ -139,8 +135,6 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29397
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29399
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network (MX) Â©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cartoon-network.png" group-title="INFANTILES PREMIUM ",Infantil: Cartoon Network (MX) Â©
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29401
-#EXTINF:-1 tvg-id="" tvg-name="Infantil: Discovery Kids (CO) Â©" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTILES PREMIUM ",Infantil: Discovery Kids (CO) Â©
-http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29404
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Discovery Kids HD Â©" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTILES PREMIUM ",Infantil: Discovery Kids HD Â©
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29406
 #EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney XD (MX)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/disney-xd-logo.png" group-title="INFANTILES PREMIUM ",Infantil: Disney XD (MX)
@@ -597,4 +591,201 @@ http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/138195
 #EXTINF:-1 tvg-id="" tvg-name="CINE FHD | UNIVERSAL CRIME" tvg-logo="https://www.jumangistv.com/logos/universal%20crime.png" group-title="UNIVERSAL +",CINE FHD | UNIVERSAL CRIME
 http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/138196
 
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Dance" tvg-logo="" group-title="MUSICA 24/7",Music: MC: Dance
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62817
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: 90's" tvg-logo="" group-title="MUSICA 24/7",Music: MC: 90's
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62821
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Mexicana" tvg-logo="" group-title="MUSICA 24/7",Music: MC: Mexicana
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62822
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Rap" tvg-logo="" group-title="MUSICA 24/7",Music: MC: Rap
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62830
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Y2K" tvg-logo="" group-title="MUSICA 24/7",Music: MC: Y2K
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62832
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Pop Latino" tvg-logo="" group-title="MUSICA 24/7",Music: MC: Pop Latino
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62833
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Tropicales" tvg-logo="" group-title="MUSICA 24/7",Music: MC: Tropicales
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62834
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VEVO Reggaton" tvg-logo="" group-title="MUSICA 24/7",Musica: VEVO Reggaton
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62835
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VEVO Urbano" tvg-logo="" group-title="MUSICA 24/7",Musica: VEVO Urbano
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62836
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VEVO Latin Pop" tvg-logo="" group-title="MUSICA 24/7",Musica: VEVO Latin Pop
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62837
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VEVO Hip-Hop" tvg-logo="" group-title="MUSICA 24/7",Musica: VEVO Hip-Hop
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62838
+#EXTINF:-1 tvg-id="" tvg-name="Musica: VEVO Metal" tvg-logo="" group-title="MUSICA 24/7",Musica: VEVO Metal
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62839
+#EXTINF:-1 tvg-id="" tvg-name="Music: Telehit Plus" tvg-logo="" group-title="MUSICA 24/7",Music: Telehit Plus
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62840
+#EXTINF:-1 tvg-id="" tvg-name="Music: Telehit Plus Full HD" tvg-logo="" group-title="MUSICA 24/7",Music: Telehit Plus Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62841
+#EXTINF:-1 tvg-id="" tvg-name="Music: Zona Latina (CL)" tvg-logo="" group-title="MUSICA 24/7",Music: Zona Latina (CL)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62842
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV (MX ©" tvg-logo="" group-title="MUSICA 24/7",Music: MTV (MX ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62843
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV FHD (MX)" tvg-logo="" group-title="MUSICA 24/7",Music: MTV FHD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62844
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV Hits (MX.) ©" tvg-logo="" group-title="MUSICA 24/7",Music: MTV Hits (MX.) ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62848
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV Live (MX)" tvg-logo="" group-title="MUSICA 24/7",Music: MTV Live (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62849
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV Live FHD (MX)" tvg-logo="" group-title="MUSICA 24/7",Music: MTV Live FHD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62850
+#EXTINF:-1 tvg-id="" tvg-name="Music: Concert Channel (CO)" tvg-logo="" group-title="MUSICA 24/7",Music: Concert Channel (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62851
+#EXTINF:-1 tvg-id="" tvg-name="Music: Concert Channel FHD (CO)" tvg-logo="" group-title="MUSICA 24/7",Music: Concert Channel FHD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62852
+#EXTINF:-1 tvg-id="" tvg-name="Music: Concert Channel HD (CO)" tvg-logo="" group-title="MUSICA 24/7",Music: Concert Channel HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62853
+#EXTINF:-1 tvg-id="" tvg-name="Music: HTV (ARG)" tvg-logo="" group-title="MUSICA 24/7",Music: HTV (ARG)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62854
+#EXTINF:-1 tvg-id="" tvg-name="Music: RMS (MX)" tvg-logo="" group-title="MUSICA 24/7",Music: RMS (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62856
+#EXTINF:-1 tvg-id="" tvg-name="Music: Telehit FHD (MX)" tvg-logo="" group-title="MUSICA 24/7",Music: Telehit FHD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62858
+#EXTINF:-1 tvg-id="" tvg-name="Music: VH1 (CO)" tvg-logo="" group-title="MUSICA 24/7",Music: VH1 (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62859
+#EXTINF:-1 tvg-id="" tvg-name="Music: VH1 Classic (MX.)" tvg-logo="" group-title="MUSICA 24/7",Music: VH1 Classic (MX.)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/62860
+#EXTINF:-1 tvg-id="" tvg-name="PuroRock24-7" tvg-logo="" group-title="MUSICA 24/7",PuroRock24-7
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/64646
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CINEMA DISNEY PIXAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7kb1gYcHQTFu2-qqTClrWgEU1sfOkrOqlHp2wV6Q2idAi01lt9vK7emoIpSYBk_4a-E&usqp=CAU" group-title="FULL CINEMA 24/7",24/7 CINEMA DISNEY PIXAR
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/116789
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 1 (90s Reloaded 2008)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 1 (90s Reloaded 2008)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117250
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 2 (Pop eurodance 90s)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 2 (Pop eurodance 90s)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117251
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 3 (Pop 2000-2004)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 3 (Pop 2000-2004)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117252
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 4 (90s)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 4 (90s)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117253
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 5 (Rock Pop 90s)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 5 (Rock Pop 90s)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117254
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 6 (Pop 2004-2006)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 6 (Pop 2004-2006)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117255
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 7 (Reggaeton)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 7 (Reggaeton)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117256
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 8 (Español)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 8 (Español)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117257
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 9 (90s)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 9 (90s)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117258
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 10 (Soundtrack)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 10 (Soundtrack)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117259
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 11 (Rock latino)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 11 (Rock latino)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117260
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 12 (Onda disco)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 12 (Onda disco)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117261
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 13 (Exitos en español)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 13 (Exitos en español)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117262
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 14-1 (Rock edition CD 1)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 14-1 (Rock edition CD 1)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117263
+#EXTINF:-1 tvg-id="" tvg-name="Classic Project 14-2 (Rock edition CD 2)" tvg-logo="https://3.bp.blogspot.com/-gIYHTcWrd9E/WTFyivXAleI/AAAAAAAAA4k/gxzN7rbiN680jskNLlapNpjnEcVh0FUqgCLcB/s1600/THE%2BCLASSIC%2BPROJECT%2B1.jpg" group-title="MUSICA 24/7",Classic Project 14-2 (Rock edition CD 2)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117264
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS COLOMBIA" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="⚽️  DEPORTES LATINO",DIRECTV SPORTS COLOMBIA
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117707
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA HD" tvg-logo="https://i.postimg.cc/PqgC0wyM/directv-sport-2.jpg" group-title="⚽️  DEPORTES LATINO",DIRECTV SPORTS 2 COLOMBIA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117708
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 ARGENTINA HD" tvg-logo="https://i.postimg.cc/PqgC0wyM/directv-sport-2.jpg" group-title="⚽️  DEPORTES LATINO",DIRECTV SPORTS 2 ARGENTINA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117709
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + ARGENTINA HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="⚽️  DEPORTES LATINO",DIRECTV SPORTS + ARGENTINA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117710
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + ECUADOR HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="⚽️  DEPORTES LATINO",DIRECTV SPORTS + ECUADOR HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117711
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + COLOMBIA HD" tvg-logo="https://i.postimg.cc/2S7XXQx4/directv-sport.jpg" group-title="⚽️  DEPORTES LATINO",DIRECTV SPORTS + COLOMBIA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117712
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FULL HD" tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="⚽️  DEPORTES LATINO",BEIN SPORTS FULL HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117713
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.postimg.cc/xdgMY81T/being-sport.jpg" group-title="⚽️  DEPORTES LATINO",BEIN SPORTS
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117714
+#EXTINF:-1 tvg-id="" tvg-name="ESPN ARGENTINA HD" tvg-logo="https://i.postimg.cc/sD3nVdTx/espn.jpg" group-title="⚽️  DEPORTES LATINO",ESPN ARGENTINA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117715
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA HD" tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="⚽️  DEPORTES LATINO",ESPN 2 ARGENTINA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117716
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 ARGENTINA HD" tvg-logo="https://i.postimg.cc/3JgzrFjr/espn3.jpg" group-title="⚽️  DEPORTES LATINO",ESPN 3 ARGENTINA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117717
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + ARGENTINA HD" tvg-logo="https://i.postimg.cc/V61nPM8h/espn.jpg" group-title="⚽️  DEPORTES LATINO",ESPN + ARGENTINA HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117718
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE HD" tvg-logo="https://i.postimg.cc/MpqNnft7/espn2.jpg" group-title="⚽️  DEPORTES LATINO",ESPN 2 CHILE HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/117719
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E Full HD (CO)" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="LATINOS FHD",Cine TV: A&E Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29050
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E Full HD (MX)" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="LATINOS FHD",Cine TV: A&E Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29052
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AMC Full HD (CO)" tvg-logo="https://www.cooperativa.cl/noticias/site/artic/20141022/imag/foto_0000000120141022154025.png" group-title="LATINOS FHD",Cine TV: AMC Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29056
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AMC Full HD (MX)" tvg-logo="https://www.cooperativa.cl/noticias/site/artic/20141022/imag/foto_0000000120141022154025.png" group-title="LATINOS FHD",Cine TV: AMC Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29058
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AXN Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LATINOS FHD",Cine TV: AXN Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29062
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AXN Full HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LATINOS FHD",Cine TV: AXN Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29064
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal Full HD (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal_hd.png" group-title="LATINOS FHD",Cine TV: Cinecanal Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29068
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal Full HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal_hd.png" group-title="LATINOS FHD",Cine TV: Cinecanal Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29070
+#EXTINF:-1 tvg-id="" tvg-name="CIne TV: Cinemax Full HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="LATINOS FHD",CIne TV: Cinemax Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29074
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: ST☆R Channel Full HD (CO)" tvg-logo="https://1.bp.blogspot.com/-gvcQET1x5rg/YDPMZx8F6LI/AAAAAAAAZm0/ao6F2J-8U0YS73kT0nET6x4JkvYirl-HgCLcBGAsYHQ/s1722/Star_Channel_logo.svg.png" group-title="LATINOS FHD",Cine TV: ST☆R Channel Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29083
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Premier  ©" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier.png" group-title="LATINOS FHD",Cine TV: Golden Premier  ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29130
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Premier Full HD ©" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier.png" group-title="LATINOS FHD",Cine TV: Golden Premier Full HD ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29132
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Plus Full HD (MX) ©" tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier.png" group-title="LATINOS FHD",Cine TV: Golden Plus Full HD (MX) ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29135
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Full HD" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="LATINOS FHD",Cine TV: HBO Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29138
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2 Full HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/Hbo_2_hd.png" group-title="LATINOS FHD",Cine TV: HBO 2 Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29142
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Family Full HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/HBO_Family_HD.png" group-title="LATINOS FHD",Cine TV: HBO Family Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29146
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus Full HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/HBOPlusHD.png" group-title="LATINOS FHD",Cine TV: HBO Plus Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29150
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Signature Full HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/HBO_Signature_HD.png" group-title="LATINOS FHD",Cine TV: HBO Signature Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29154
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO MUNDI Full HD" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="LATINOS FHD",Cine TV: HBO MUNDI Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29156
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Pop Full HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png" group-title="LATINOS FHD",Cine TV: HBO Pop Full HD
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29159
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sony Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINOS FHD",Cine TV: Sony Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29170
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sony Full HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINOS FHD",Cine TV: Sony Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29172
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: SyFy Full HD (MX)" tvg-logo="https://wtcks.com/images/channels/logos/syfy.png" group-title="LATINOS FHD",Cine TV: SyFy Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29175
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Space Full HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/space.png" group-title="LATINOS FHD",Cine TV: Space Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29177
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT Full HD (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt.png" group-title="LATINOS FHD",Cine TV: TNT Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29182
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT Full HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt.png" group-title="LATINOS FHD",Cine TV: TNT Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29184
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT Series Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS FHD",Cine TV: TNT Series Full HD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29188
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT Series Full HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINOS FHD",Cine TV: TNT Series Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29190
+#EXTINF:-1 tvg-id="ScifiUniversal.pl" tvg-name="Cine TV: Studio Universal Full HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/universal.png" group-title="LATINOS FHD",Cine TV: Studio Universal Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29195
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Warner Channel Full HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/warner.png" group-title="LATINOS FHD",Cine TV: Warner Channel Full HD (MX)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29204
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Warner Channel FHD (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/warner.png" group-title="LATINOS FHD",Cine TV: Warner Channel FHD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29206
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Paramount Channel FHD (CO)" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title="LATINOS FHD",Cine TV: Paramount Channel FHD (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29165
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  CINE TV  ▆ ▅ ▄ ▂" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLmp1bWFuZ2lzX2ljb25fMTYxOTAyMjI0NF8wNzA/icon.png?w=170&fakeurl=1" group-title="LATINO SD",▂ ▄ ▅ ▆  CINE TV  ▆ ▅ ▄ ▂
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29212
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/aye.png" group-title="CINE Y SERIES",Cine TV: A&E (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29048
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AXN (CO) ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/axn.png" group-title="CINE Y SERIES",Cine TV: AXN (CO) ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29060
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE Y SERIES",Cine TV: Cinecanal (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29066
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinemax (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE Y SERIES",Cine TV: Cinemax (CO)
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29072
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cine Latino ©" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.CineLatinoSilver.png.dc59ff451209bc0dc6aa40711daeb94c.png" group-title="CINE Y SERIES",Cine TV: Cine Latino ©
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29075
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Dinamita" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Inicio.png.d1804462375d9c9ba5e1bc3121b10532.png" group-title="CINE Y SERIES",Cine TV: Cinema Dinamita
+http://jumangis.com:2082/Sv503iptv22/QR7E5sm3J2/29076
